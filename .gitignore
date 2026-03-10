@@ -144,3 +144,8 @@ build/
 # =========================
 site/
 docs/_build/
+
+# Keep folder structure tracked
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
